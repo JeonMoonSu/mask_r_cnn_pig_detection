@@ -8,3 +8,5 @@
 We change mrcnn/visualize.py  -> display_instances method ( save img file here )
 In pig_images/   json file "region_attributes":{"name" : "standing_pig"} <---- class name
 We use VGG Image Annotation tool http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html
+
+Not complete project (19/09/18)
